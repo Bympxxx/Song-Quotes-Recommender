@@ -1,0 +1,81 @@
+[
+  {
+    "idCategory": "1",
+    "strCategory": "Carne de res",
+    "strCategoryThumb": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-menu/beef.png",
+    "strCategoryDescription": "La carne de res es el nombre culinario para la carne de ganado, especialmente el músculo esquelético. Los humanos han estado comiendo carne de res desde tiempos prehistóricos. La carne de res es una fuente de proteína de alta calidad y nutrientes esenciales."
+  },
+  {
+    "idCategory": "2",
+    "strCategory": "Pollo",
+    "strCategoryThumb": "https://www.themealdb.com/images/category/chicken.png",
+    "strCategoryDescription": "El pollo es un tipo de ave doméstica, una subespecie del gallo rojo. Es uno de los animales domésticos más comunes y extendidos, con una población total de más de 19 mil millones hasta 2011. Los humanos suelen criar pollos como fuente de alimento (consumiendo tanto su carne como sus huevos) y, más raramente, como mascotas."
+  },
+  {
+    "idCategory": "3",
+    "strCategory": "Postre",
+    "strCategoryThumb": "https://www.themealdb.com/images/category/dessert.png",
+    "strCategoryDescription": "El postre es un plato que concluye una comida. El plato generalmente consiste en alimentos dulces, como dulces o frutas, y posiblemente una bebida como vino de postre o licor; sin embargo, en Estados Unidos puede incluir café, quesos, nueces u otros elementos salados considerados como un plato separado en otros lugares. En algunas partes del mundo, como gran parte de África central y occidental y la mayor parte de China, no hay tradición de un plato de postre para concluir una comida. El término postre puede aplicarse a muchas confituras, como galletas, pasteles, galletas, natillas, gelatinas, helados, pasteles, pudines, sopas dulces y tartas. La fruta también se encuentra comúnmente en platos de postre debido a su dulzura natural. Algunas culturas endulzan alimentos que son más comúnmente salados para crear postres."
+  },
+  {
+    "idCategory": "4",
+    "strCategory": "Cordero",
+    "strCategoryThumb": "https://www.themealdb.com/images/category/lamb.png",
+    "strCategoryDescription": "Cordero, carnero y cordero son la carne de ovejas domésticas (especie Ovis aries) en diferentes edades. Una oveja en su primer año se llama cordero, y su carne también se llama cordero. La carne de una oveja joven mayor de un año es carnero; fuera de los Estados Unidos, este término también se usa para el animal vivo. La carne de una oveja adulta es cordero, un término solo usado para la carne, no para los animales vivos. El término cordero se usa casi siempre para referirse a la carne de cabra en el subcontinente indio."
+  },
+  {
+    "idCategory": "5",
+    "strCategory": "Varios",
+    "strCategoryThumb": "https://www.themealdb.com/images/category/miscellaneous.png",
+    "strCategoryDescription": "Alimentos generales que no encajan en otra categoría"
+  },
+  {
+    "idCategory": "6",
+    "strCategory": "Pasta",
+    "strCategoryThumb": "https://www.themealdb.com/images/category/pasta.png",
+    "strCategoryDescription": "La pasta es un alimento básico de la cocina tradicional italiana, con la primera referencia que data de 1154 en Sicilia. También se usa comúnmente para referirse a la variedad de platos de pasta, la pasta es típicamente un fideo hecho de una masa no fermentada de harina de trigo duro mezclada con agua o huevos y formada en láminas o varias formas, luego cocida hirviendo u horneando. Como alternativa para aquellos que desean un sabor diferente, o que necesitan evitar productos que contengan gluten, algunas pastas se pueden hacer usando harina de arroz en lugar de trigo. Las pastas se pueden dividir en dos categorías principales, secas y frescas."
+  },
+  {
+    "idCategory": "7",
+    "strCategory": "Cerdo",
+    "strCategoryThumb": "https://www.themealdb.com/images/category/pork.png",
+    "strCategoryDescription": "El cerdo es el nombre culinario para la carne de un cerdo doméstico (Sus scrofa domesticus). Es la carne más consumida en todo el mundo, con evidencia de la cría de cerdos que se remonta al 5000 a.C. El cerdo se come tanto recién cocido como conservado. El curado prolonga la vida útil de los productos de cerdo. Jamón, cerdo ahumado, paletilla, tocino y salchicha son ejemplos de cerdo conservado. La charcutería es la rama de la cocina dedicada a los productos cárnicos preparados, muchos de ellos de cerdo. El cerdo es la carne más popular en Asia oriental y sudoriental, y también es muy común en el mundo occidental, especialmente en Europa central. Es muy apreciado en las cocinas asiáticas por su contenido graso y su agradable textura. El consumo de cerdo está prohibido por la ley dietética judía y musulmana, un tabú que está profundamente arraigado en la tradición, con varias posibles causas sugeridas. La venta de cerdo está limitada en Israel y es ilegal en ciertos países musulmanes."
+  },
+  {
+    "idCategory": "8",
+    "strCategory": "Mariscos",
+    "strCategoryThumb": "https://www.themealdb.com/images/category/seafood.png",
+    "strCategoryDescription": "Los mariscos son cualquier forma de vida marina considerada como alimento por los humanos. Los mariscos incluyen principalmente pescados y mariscos. Los mariscos incluyen varias especies de moluscos, crustáceos y equinodermos. Históricamente, los mamíferos marinos como ballenas y delfines han sido consumidos como alimento, aunque eso ocurre en menor medida en la época moderna. Las plantas marinas comestibles, como algunas algas y microalgas, se comen ampliamente como mariscos en todo el mundo, especialmente en Asia. En América del Norte, aunque no generalmente en el Reino Unido, el término 'mariscos'"
+  },
+
+  {
+    "idCategory": "9",
+    "strCategory": "Desayuno",
+    "strCategoryThumb": "https://www.themealdb.com/images/category/breakfast.png",
+    "strCategoryDescription": "El desayuno es la primera comida del día, que se consume por la mañana. El significado de la comida varía según la cultura, pero a menudo incluye una combinación de alimentos ricos en carbohidratos, proteínas y grasas, junto con bebidas como café, té o jugo. Los ejemplos comunes de desayuno incluyen huevos, tocino, pan, cereales, frutas, yogur y productos lácteos."
+  },
+  {
+    "idCategory": "10",
+    "strCategory": "Bebida",
+    "strCategoryThumb": "https://www.themealdb.com/images/category/drink.png",
+    "strCategoryDescription": "Una bebida es un líquido destinado al consumo humano. Además de satisfacer la sed, las bebidas desempeñan importantes roles culturales y sociales. Las bebidas pueden ser alcohólicas o no alcohólicas. Las bebidas alcohólicas contienen etanol (alcohol), que es psicoactivo y tiene un potencial de abuso. Las bebidas no alcohólicas a menudo se consumen por su sabor refrescante, estimulante o nutricional."
+  },
+  {
+    "idCategory": "11",
+    "strCategory": "Comida rápida",
+    "strCategoryThumb": "https://www.themealdb.com/images/category/fast-food.png",
+    "strCategoryDescription": "La comida rápida es un término amplio que engloba diversos alimentos que son rápidos de preparar, servir y consumir. Se caracteriza por su disponibilidad rápida, precio asequible y en algunos casos, se consume sobre la marcha. Ejemplos comunes incluyen hamburguesas, pizzas, pollo frito, papas fritas, tacos, sándwiches y otros alimentos listos para comer."
+  },
+  {
+    "idCategory": "12",
+    "strCategory": "Vegetariano",
+    "strCategoryThumb": "https://www.themealdb.com/images/category/vegetarian.png",
+    "strCategoryDescription": "La cocina vegetariana se basa en alimentos que no incluyen carne ni productos de origen animal. Los vegetarianos pueden consumir una variedad de alimentos, como frutas, verduras, legumbres, granos, nueces y semillas. Algunos pueden incluir productos lácteos y huevos, mientras que otros siguen una dieta estrictamente vegana, excluyendo todos los productos de origen animal."
+  },
+  {
+    "idCategory": "13",
+    "strCategory": "Vegano",
+    "strCategoryThumb": "https://www.themealdb.com/images/category/vegan.png",
+    "strCategoryDescription": "El veganismo es un estilo de vida y una dieta que excluye todos los productos de origen animal, incluyendo carne, pescado, mariscos, lácteos, huevos y miel, así como otros productos derivados de animales. Los veganos se adhieren a esta dieta por razones éticas, medioambientales y de salud."
+  }
+]
